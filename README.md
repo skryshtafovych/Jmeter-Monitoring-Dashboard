@@ -12,5 +12,6 @@ Using Jmeter to perform test on API use the results from test to Graph Stuffs on
 
 
 # Look Into:
-Repurposing Automatic Dashboard Generation from jmeter Script.
+- Repurposing Automatic Dashboard Generation from jmeter Script.
+- https://www.blazemeter.com/blog/how-to-use-grafana-to-monitor-jmeter-non-gui-results
 
