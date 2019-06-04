@@ -10,3 +10,7 @@ Will Need:
 Machine that executed jmeter script per minute and moves Data to cloud.
 Machine that connects and displays data fron the CLOUD SQL
 
+
+Look Into:
+Repurposing Automatic Dashboard Generation from jmeter Script.
+
